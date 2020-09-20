@@ -19,6 +19,10 @@ Open HTML file in chrome browser to begin. Click on generate password button to 
 * User can create an all special character password.
 * User can create an all letters, all uppercase, or all lowercase password.
 
+## Link
+
+https://seykoplik.github.io/JSPasswordGenerator/
+
 
 --- 
 © 2020 Seychelle Koplik
