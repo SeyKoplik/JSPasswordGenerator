@@ -1,8 +1,8 @@
-# JSPasswordGenerator
+# JavaScript Password Generator
 
 ## Description
 
-In this project, we needed to create a password generator that would request a user to input a character length for the password they would like to create limiting the user from creating from a length of 8-128 characters and notifying user that they would need to put the right length correctly otherwise they would have to repeat the process all over.
+In this assignment, we needed to create a password generator that would request a user to input a character length for the password they would like to create limiting the user from creating from a length of 8-128 characters and notifying user that they would need to put the right length correctly otherwise they would have to repeat the process all over.
 
 It's also set up with various parameters to include within the password generator and use woubd be able to confirm if they would like to include numerical, uppercase, lowercase, or special characters within the password that is to be generated
 
